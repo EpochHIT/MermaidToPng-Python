@@ -14,7 +14,7 @@ Mermaid to PNG Converter (无依赖版本)
 - 仅使用Python标准库，无需安装额外依赖
 - 自动创建专门的图片文件夹
 
-作者: GitHub Copilot
+作者: GitHub EpochHIT 
 日期: 2025-06-08
 """
 
