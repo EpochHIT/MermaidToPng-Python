@@ -1,0 +1,14 @@
+# Mermaid to PNG 转换器依赖文件
+# 
+# 注意：本项目实际上不需要任何外部依赖！
+# 完全使用Python标准库开发，直接运行即可。
+# 
+# 如果您需要在其他环境中验证Python标准库的可用性，
+# 可以运行以下命令检查：
+# python -c "import urllib.request, re, os, pathlib, json, time; print('所有必需的标准库模块都可用！')"
+#
+# Python 版本要求: >= 3.6
+
+# 无需安装任何依赖包
+# requests  # 已移除，改用 urllib.request
+pathlib2>=2.3.6
